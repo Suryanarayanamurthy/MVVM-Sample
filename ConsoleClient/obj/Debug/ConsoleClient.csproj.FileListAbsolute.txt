@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2015\Projects\interSalesAssignment_v2\interSalesAssignment\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+D:\Documents\Visual Studio 2015\Projects\interSalesAssignment_v2\interSalesAssignment\ConsoleClient\bin\Debug\ConsoleClient.exe
+D:\Documents\Visual Studio 2015\Projects\interSalesAssignment_v2\interSalesAssignment\ConsoleClient\bin\Debug\ConsoleClient.pdb
+D:\Documents\Visual Studio 2015\Projects\interSalesAssignment_v2\interSalesAssignment\ConsoleClient\bin\Debug\Services.dll
+D:\Documents\Visual Studio 2015\Projects\interSalesAssignment_v2\interSalesAssignment\ConsoleClient\bin\Debug\Services.pdb
+D:\Documents\Visual Studio 2015\Projects\interSalesAssignment_v2\interSalesAssignment\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\interSalesAssignment_v2\interSalesAssignment\ConsoleClient\obj\Debug\ConsoleClient.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\interSalesAssignment_v2\interSalesAssignment\ConsoleClient\obj\Debug\ConsoleClient.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\interSalesAssignment_v2\interSalesAssignment\ConsoleClient\obj\Debug\ConsoleClient.exe
+D:\Documents\Visual Studio 2015\Projects\interSalesAssignment_v2\interSalesAssignment\ConsoleClient\obj\Debug\ConsoleClient.pdb

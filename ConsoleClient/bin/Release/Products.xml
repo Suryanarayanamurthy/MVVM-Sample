@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <ProductName>bcd</ProductName>
+    <ProductPrice>100</ProductPrice>
+    <currentValue>0</currentValue>
+  </Product>
+  <Product>
+    <ProductName>p1</ProductName>
+    <ProductPrice>110</ProductPrice>
+    <currentValue>0</currentValue>
+  </Product>
+</ArrayOfProduct>
